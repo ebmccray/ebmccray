@@ -1,4 +1,5 @@
 - 👋 My name is Erienne McCray. I'm a software engineer located in the Pacific Northwest.
+- 💼 I work for [Revature](https://revature.com/).
 - 📫 You can reach out to me via email at eriennemccray@gmail.com
 
 <!---
