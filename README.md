@@ -1,4 +1,4 @@
-- 👋 My name is Erienne McCray. I'm a software engineer.
+- 👋 My name is Erienne McCray, and I'm a software enginner. I recently transitioned into the tech industry from a literary/fine arts background.
 - 🌎 I'm currently located in the Pacific Northwest, but I am open to relocation!
 - 💼 I work for [Revature](https://revature.com/).
 - 📫 You can reach out to me via email at eriennemccray@gmail.com
