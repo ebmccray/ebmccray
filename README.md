@@ -1,6 +1,6 @@
 - 👋 My name is Erienne McCray, and I'm a software enginner. I recently transitioned into the tech industry from a literary/fine arts background.
 - 🌎 I'm currently located in Northwest Arkansas.
-- 💼 I work for [Revature](https://revature.com/).
+- 💼 I'm looking for new career opportunities
 - 📫 You can reach out to me via email at eriennemccray@gmail.com
 
 <!---
